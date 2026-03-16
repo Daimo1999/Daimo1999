@@ -1,5 +1,5 @@
 
-# 👋 About Me
+#  About Me
 
 Business Informatics student from Costa Rica 🇨🇷 with experience in **data analysis, business intelligence, and data management**.
 
